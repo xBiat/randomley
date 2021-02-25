@@ -1,0 +1,364 @@
+White.. أبيض
+Black.. أسود
+Red.. أحمر
+Green .. أخضر
+Blue .. أزرق
+Yellow.. أصفر
+Orange .. برتقالي
+Pink .. وردي
+Brown .. بني
+Beige .. بيج
+Grey .. رمادي
+Turquoise .. فيروزي
+Maroon .. كستنائي
+Purple .. أرجواني
+Violet .. بنفسجي
+Head .. رأس
+Hair .. شعر
+Forehead .. جبين
+Eye .. عين
+Eyebrow .. حاجب
+Eyelid .. جفن
+Pupil .. بؤبؤ العين
+Iris .. قزحية
+Eyelash .. رمش
+Nose .. أنف
+Mouth .. فم
+Lips .. شفاه
+Tongue .. لسان
+Cheek .. خد
+Temple .. صدغ
+Ear .. أذن
+Ear lobe .. شحمة الأذن
+Chin .. ذقن
+Throat .. حنجرة
+Neck .. عنق
+Chest .. صدر
+Nipple .. حلمة
+Armpit .. إبط
+Navel – bellybutton .. سرة
+Stomach .. معدة
+Belly – Tummy .. بطن
+Arm.. ذراع
+Wrist .. ذراع
+Finger .. إصبع
+Thumb .. إبهام
+Index finger .. السبابة
+Middle finger .. الإصبع الأوسط
+Ring finger .. إصبع الخاتم
+Little finger .. الخنصر
+Palm .. راحة اليد
+Shoulders .. أكتاف
+Shoulder blade .. لوح الكتف
+Back .. ظهر
+Buttocks .. أرداف
+Hamstring .. أوتار الركبة
+Elbow .. الكوع
+Thigh .. فخذ
+Knee .. ركبة
+Leg .. ساق
+Heel .. كعب
+Arch .. قوس القدم
+Toes.. إصبع القدم
+Big toe .. أصبع القدم الكبير
+Ankle ..الكاحل
+Coat .. معطف
+Jacket .. سترة
+Sweater .. قميص صوفي
+Shirt .. قميص
+Pants .. بنطلون
+Jeans .. جينز
+Shorts .. سراويل، سروال قصير
+Cap .. قبعة
+Tie .. ربطة عنق
+Shoes .. أحذية
+Tennis shoe .. حذاء تنس
+Boot .. حذاء طويل
+Belt .. حزام
+Sandal.. صندل
+Flip-flop.. نعال، شبشب
+Slipper.. شبشب
+Bathrobe .. روب الحمام
+Briefs .. سروال داخلي
+Boxers .. سروال داخلي قصير
+Sock .. جورب
+Suit .. بدلة
+Vest .. سترة
+Tuxedo .. ملابس سهرة رجالي
+Bow tie .. ربطة عنق صغيرة
+Skirt .. تنورة
+Miniskirt .. تنورة قصيرة
+Blouse .. بلوزة
+Stockings .. جوارب
+Tights .. استرتش
+High heels – Stilettos .. كعب عالي
+Trainers .. حذاء تدريب
+Wellingtons ..حذاء طويل الساق
+Shoelace .. رباط الحذاء
+Leather jacker .. سترة جلدية
+Gloves .. قفازات
+Underpants .. سراويل تحتية
+Knickers .. كلسون
+Bra .. حمالة صدر
+Blazer .. سترة رياضية
+Bathing suit .. زي السباحة
+Swimming trunks .. سروال السباحة
+Pyjamas .. بيجاما
+Night gown .. ثوب النوم
+Robe .. روب
+Bikini .. بيكيني
+Hat .. قبعة
+Overcoat .. معطف
+Trousers .. بنطلون
+T-shirt .. تي شيرت
+Raincoat .. معطف واق من المطر
+Pullover .. البلوفر كنزة صوفية
+Cardigan .. سترة من صوف محبوك
+Jumper .. سترة أو قفاز
+Thong .. حزام جلدي رفيع
+Tracksuit .. بدلة رياضية للتدريب
+Overalls.. ثياب العمل
+Apron .. مئزر للمطبخ
+Dress .. فستان
+Purse .. محفظة
+Suspenders .. حزام
+Evening grown .. فستان سهرة
+Veil .. حجاب أو نقاب
+Slip .. ملابس داخلية
+Panties .. سروال تحتي قصير
+Father .. والد
+Mother .. والدة
+Grandfather .. جد
+Grandmother .. جدة
+Grandson .. حفيد
+Husband .. زوج
+Wife .. زوجة
+Son .. ابن
+Daughter .. ابنة
+Brother .. أخ
+Sister .. أخت
+Child.. طفل
+Children .. أطفال
+Kids .. أولاد
+Uncle .. عم أو خال
+Aunt .. عمة أو خالة
+Cousin .. ابن العم أو ابن الخال
+Nephew .. ابن الأخ أو ابن الأخت
+Niece .. ابنة الأخ أو ابنة الأخت
+Godfather .. عراب
+Godmother .. عرابة
+Godson.. الابن بالمعمودية
+Goddaughter .. ابنة بالمعمودية
+Stepfather .. زوج الأم
+Stepmother .. زوجة الأب
+Stepson .. ابن الزوج أو ابن الزوجة
+Stepdaughter .. ابنة الزوج أو ابنة الزوجة
+Stepbrother- Half-brother .. أخ غير شقيق
+Stepsister- Half-sister .. أخت غير شقيقة
+Father-in-law .. والد الزوج أو والد الزوجة
+Mother-in-law .. والدة الزوج أو والدة الزوجة
+Sister-in-law .. أخت الزوج أو أخت الزوجة
+Siblings .. أشقاء
+Boyfriend .. صديق الفتاة
+Girlfriend .. صديقة
+Partner .. شريك
+Fiancé .. خطيب أو خطيبة
+Bored .. ضجر أو ملل
+Calm .. هادئ
+Delighted .. مسرور
+Depressed .. مكتئب
+Disappointed .. مخيب للآمال
+Disgusted .. مقرف
+Enthusiastic- Excited .. متحمس
+Exhausted .. منهك
+Happy .. سعيد
+Miserable .. بائس
+Pleased .. مسرور
+Relaxed .. مسترخ
+Sad .. حزين
+Stressed .. مرهق
+Surprised .. مندهش
+Tired .. متعب
+Worried .. قلق
+Absent-minded .. شارد الذهن
+Adventurous .. مغامر
+Arrogant / Snobbish / conceited .. مغرور
+Bad-tempered .. منفعل
+Boring .. ممل
+Brave .. شجاع
+Calm .. هادئ
+Cautious .. حذر
+Cheerful .. مرح
+Clever .. ذكي
+Confident .. واثق من نفسه
+Cowardly .. جبان
+Crazy .. مجنون
+Dishonest .. غير صادق
+Easy-going سهل المعاشرة
+Emotional .. عاطفي
+Friendly .. ودود
+Funny .. مضحك
+Generous .. كريم
+Good-humored .. فكاهي
+Hard-working .. مجتهد
+Honest .. صادق
+Impatient .. غير صبور
+Impolite .. غير مهذب
+Impulsive .. متهور
+Intelligent .. ذكي
+Introverted .. انطوائي
+Kind .. حنون
+Lazy .. كسول
+Mean.. لئيم أو حقير
+Modest .. متواضع
+Moody .. متقلب المزاج
+Patient .. مريض
+Polite .. مؤدب
+Rude .. وقح
+Sensible.. عاقل وحساس
+Sensitive .. حساس
+Serious .. خطير
+Shy .. خجول
+Sophisticated .. راقي وأنيق
+Stupid .. غبي
+Talented .. موهوب
+Unfriendly .. عدائي
+Witty .. بارع
+Down to earth .. متواضع
+Accountant .. محاسب
+Actor .. ممثل
+Actress .. ممثلة
+Air hostess .. مضيفة طائرة
+Air stewardess .. مضيفة جوية
+Archeologist .. عالم آثار
+Artist .. فنان
+Anthropologist .. عالم بعلوم الإنسان
+Baker .. خباز
+Ballerina .. راقصة بالية
+Bank manager .. مدير بنك
+Barber .. حلاق
+Beautician .. شخص يعمل في مؤسسة تجميل
+Biologist .. عالم أحياء
+Shoeshine .. ماسح أحذية
+Botanist .. نباتي
+Builder .. شخص يعمل في البناء
+Butcher .. جزار
+Buyer .. مشتري
+Carpenter .. نجار
+Chef .. رئيس الطهاة
+Chemist .. كيميائي
+Chief of police .. قائد شرطة
+Civil servant .. موظف حكومي
+Clerk .. كاتب
+Composer .. ملحن
+Cook .. طباخ
+Copywriter .. مصحح قانوني
+Decorator .. مصمم ديكور
+Delivery boy .. موصل طلبيات
+Dentist .. طبيب أسنان
+Designer .. مصمم
+Detective .. رجل مباحث
+Director .. مخرج
+Doctor .. طبيب
+Dressmaker .. خياط
+Economist .. خبير اقتصادي
+Editor .. محرر
+Engineer .. مهندس
+Expert on folklore .. خبير في التراث الشعبي
+Fashion coordinator .. منسق أزياء
+Fireman .. رجل مطافي
+Florist .. بائع الزهور
+Geologist .. جيولوجي
+Graphic designer .. مصمم جرافيك
+Greengrocer .. بائع خضار وفاكهة
+Hairdresser .. مصفف شعر
+Illustrator .. مصور
+Insurance broker .. وسيط التأمين
+Interpreter .. مترجم
+Janitor .. بواب
+Journalist .. صحفي
+Judge .. قاضي
+Lawyer .. محامي
+Lecturer .. محاضر
+Mailman .. ساعي البريد
+Mathematician .. عالم رياضيات
+Mechanic .. ميكانيكي
+Merchant .. تاجر
+Meteorologist .. عالم أرصاد جوية
+Model .. عارضة أزياء
+Musician .. موسيقي
+Newscaster .. مذيع
+Novelist .. روائي
+Nurse .. ممرضة
+Worker .. عامل
+Optician .. صانع أدوات بصرية
+Painter .. رسام
+Pharmacist .. صيدلي
+Philosopher .. فيلسوف
+Photographer .. مصور
+Physicist .. عالم فيزيائي
+Pilot .. طيار
+Playwright .. كاتب مسرحي
+Plumber .. سمكري
+Poet .. شاعر
+Police officer .. ضابط شرطة
+Producer .. منتج
+Programmer .. مبرمج
+Psychiatrist .. طبيب نفسي
+Publisher .. ناشر
+Receptionist .. موظف استقبال
+Reporter.. صحفي
+Scientist .. عالم
+Sculptor .. نحات
+Secretary .. سكرتيرة أو سكرتير
+Singer .. مغني
+Surgeon.. جراح
+Tailor .. خياط
+Taxi driver .. سائق تاكسي
+Teacher .. معلم
+Translator .. مترجم
+Typist .. كاتب على الآلة الكاتبة
+Waiter .. نادل
+Writer .. كاتب
+Zoologist .. خبير في علم الحيوان
+Bacon .. لحم خنزير
+Beef .. لحم بقر
+Breakfast .. فطور
+Butter .. زبدة
+Cheese .. جبن
+Chiken .. دجاج
+Chili .. فلفل حار
+Cornflakes .. رقائق الذرة
+Cream .. قشدة
+Duck .. لحم البط
+Eggs .. بيض
+Full fat-milk حليب كامل الدسم
+Garlic .. ثوم
+Goat cheese .. جبن الماعز
+Ham .. لحم خنزير مدخن
+Hamburger .. شطيرة لحم
+Herring .. رنجة
+Honey .. عسل
+Hot dog .. سندويتش سجق
+Jamp.. مربى
+Ketchup .. عصير الطماطم
+Lamb .. لحم خروف
+Liver .. كبدة
+Mayonnaise .. المايونيز
+Mustard .. المسطردة
+Noodles/ Pasta .. معكرونة
+Sause .. صلصة
+Pepper .. فلفل أسود
+Pizza .. بيتزا
+Vinegar .. خل
+Yogurt .. زبادي
+Rice .. أرز
+Salmon .. سمك السلمون
+Salt .. ملحم
+Sausages .. نقانق
+Spaghetti .. معكرونة اسباجتي
+Spices .. توابل
+Sugar .. سكر
+Toast .. خبز محمص
+Tuna .. تونة
+Turkey .. لحم ديك رومي
